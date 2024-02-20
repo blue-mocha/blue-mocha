@@ -14,12 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## skills & tools
+## Tech stack 🔭
 
 
-## DEV's log 
+#used at least once 🌱
+
+
+
+## DEV's log 😄
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@blue-mocha">
-        😄<img src="https://img.shields.io/badge/bluemocha's%20velog-8A2BE2"> 
+        <img src="https://img.shields.io/badge/bluemocha's%20velog-8A2BE2"> 
     </a>
 </div><br>
