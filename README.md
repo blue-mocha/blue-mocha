@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## DEV's log 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
+    <a href="https://velog.io/@blue-mocha">
         😄<img src="https://img.shields.io/badge/bluemocha's%20velog-8A2BE2"> 
     </a>
 </div><br>
