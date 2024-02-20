@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## skils & tools
+
 
 ## DEV's log 
 <div style="display:flex; flex-direction:row;">
